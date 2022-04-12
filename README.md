@@ -4,7 +4,6 @@
 [<img alt="Pandas" src="https://img.shields.io/badge/openpyxl-2C2D72?style=for-the-badge&logo=opencv&logoColor=white" />](https://github.com/koroshkorosh1) 
 [<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />](https://github.com/koroshkorosh1) 
 [<img alt="Plotly" src="https://img.shields.io/badge/Matplotlib -239120?style=for-the-badge&logo=plotly&logoColor=white" />](https://github.com/koroshkorosh1)
-[<img alt="Python" src="https://img.shields.io/badge/Python-3F7540.svg?&style=for-the-badge&logo=Python&logoColor=white" />]
 
 ![image](https://s23.picofile.com/file/8449058076/3840017_orig.png)
 
@@ -60,12 +59,6 @@ files:
 ###  **Documentation**
 
 [Phasepy's documentation](https://phasepy.readthedocs.io/en/latest/)
-
-### **Getting Started**
----------------
-Base input variables include temperature ($K$) \
-pressure ($bar$) \
-molar volume ($ \frac {cm^{3}}{mol} $)
 
 ![image](https://s23.picofile.com/file/8449046084/chemecube_logo_wide_2_1_.png)
 <br><br>
